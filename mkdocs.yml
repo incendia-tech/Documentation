@@ -1,19 +1,23 @@
 site_name: Incendia Documentation
 site_url: https://www.incendia.tech/
-repo_url: https://github.com/incendia-tech
+repo_url: https://github.com/zero-savvy/burn-to-vote
 theme:
   name: material
+  logo: images/incendia-logo.png
   features:
     - navigation.tabs
+    - navigation.sections
     - navigation.expand
     - content.code.copy
+extra:
+  homepage: true
 nav:
   - Home: index.md
   - Getting Started:
       - Installation: installation.md
       - Usage: usage.md
   - Developer Guide:
-      - Contributing: dev/contributing.md
       - Architecture: dev/architecture.md
+      - Contributing: dev/contributing.md
       - Roadmap: dev/roadmap.md
-  - API Reference: api.md
+  # - API Reference: api.md

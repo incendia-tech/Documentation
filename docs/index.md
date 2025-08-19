@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="images/incendia-logo.png" alt="Incendia" width="200"/>
+</p>
+
+
 # Welcome to Incendia Technologies
 
-Anonymous Voting via Proof-of-Burn
+Incindia is an Anonymous Voting via Proof-of-Burn
+
 This repository delivers a Rust-based, fully on-chain anonymous voting system leveraging proof-of-burn and zero-knowledge proofs (zk-SNARKs) to enable privacy-preserving, verifiable voting on Ethereum-compatible networks.
 
 ## Key Features
