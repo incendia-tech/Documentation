@@ -1,0 +1,5 @@
+/* Increase navbar logo size */
+.md-header__button.md-logo img {
+  height: 55px;   /* change this number as you like */
+  width: auto;
+}

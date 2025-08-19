@@ -11,6 +11,9 @@ theme:
     - content.code.copy
 extra:
   homepage: true
+
+extra_css:
+  - stylesheets/extra.css
 nav:
   - Home: index.md
   - Getting Started:
